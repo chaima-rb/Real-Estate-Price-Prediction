@@ -1,7 +1,8 @@
-# 🏠 Bangalore House Price Estimator
+#  Bangalore House Price Estimator
 
 A machine learning web application that predicts house prices in Bangalore using Streamlit.
 
+<img width="964" height="809" alt="image" src="https://github.com/user-attachments/assets/5cb4b78c-b985-471a-8820-d710f0599636" />
 
 
 
