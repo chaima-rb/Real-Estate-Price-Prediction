@@ -26,8 +26,9 @@ This project combines machine learning with web deployment to create an interact
 ##  Installation
 
 ### Prerequisites
- requirements.txt
- **pip install -r requirements.txt**
+- requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
 ### Setup
 1. Clone the repository:
